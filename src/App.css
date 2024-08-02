@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+gap: 20px;
+height: 100vh;
+}
+.container{
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.button{
+  height: 35px;
+  padding: 0px 12px;
+  background: #175CD3;
+  color: whitesmoke;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
